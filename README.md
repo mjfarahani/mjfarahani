@@ -43,11 +43,11 @@ I am a software developer with a great passion for coding and always eager to le
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loardjavad&label=Profile%20views&color=0e75b6&style=flat" alt="me-dira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjfarahani&label=Profile%20views&color=0e75b6&style=flat" alt="me-dira" /> </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=loardjavad&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=loardjavad&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=mjfarahani&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mjfarahani&theme=radical&hide_border=false)<br/>
 
 
 
@@ -57,7 +57,7 @@ I am a software developer with a great passion for coding and always eager to le
 
 
 <!--
-**loardjavad/loardjavad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mjfarahani/mjfarahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
